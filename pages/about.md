@@ -8,20 +8,23 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="cots002" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Children of the Struggle is a digital collaboration building upon decades of community work to document and preserve the stories of Black residents' experiences of desegregation and civil rights in Burke County, North Carolina.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+We acknowledge and give thanks to:
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+- The children and families of the West Concord Street Mothers
+- Dr. Leslie McKesson for spearheading this work
+- The historical marker committee for the NC Civil Rights Marker at [Slades Chapel AME Church](https://aahc.nc.gov/programs/nc-civil-rights-trail/nc-civil-rights-virtual-trail/slades-chapel-1961)
+- The Children of the Struggle exhibit at the [History Museum of Burke County](https://www.thehistorymuseumofburke.org/)
+- [North Carolina Room at the Burke County Public Library](https://bcpls.org/index.php/ncroom/)
+- NCSSM-Morganton faculty and staff collaborators
+- Appalachian State students who conducted oral history interviews
+- NCSSM-Morganton students who contributed to visualizations on this site
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+For questions about the collection or to get involved, email Dr. McKesson at lm1158@appstate.edu.
